@@ -14,7 +14,7 @@ function App() {
         </header>
         <main className="flex-grow-1">
           <Container>
-            <Row>
+            <Row className="d-flex justify-content-center">
               <Col xs={12}>
                 <SectionTitle title="SPECIALITA' DEL GIORNO"></SectionTitle>
               </Col>
